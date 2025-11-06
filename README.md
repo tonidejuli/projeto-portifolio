@@ -1,2 +1,2 @@
 # meu-portifolio
-meu portifólio
+veja um pouco sobre mim e meus projetos
